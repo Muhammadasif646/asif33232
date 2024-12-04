@@ -1,0 +1,29 @@
+
+table{
+
+background-color: lightcyan;
+
+
+
+
+
+}
+
+td{
+
+
+    border: 2px solid black;
+}
+
+#tr{
+
+    background-color: black;
+    color: white;
+}
+
+td:hover{
+
+background-color: lightcoral;
+cursor: pointer;
+
+}
